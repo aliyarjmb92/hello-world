@@ -25,7 +25,7 @@ public class MainClass {
 	
 	JLabel srcLabel = new JLabel("Path to src folder ");
 	JTextField srcText = new JTextField(20);
-	JLabel libLabel = new JLabel("Path to Libraries");
+	JLabel libLabel = new JLabel("Path to Libraries1");
 	JTextField libText = new JTextField(20);
 	JButton compileButton = new JButton("Compile");
 	JButton convertButton = new JButton("Convert");
