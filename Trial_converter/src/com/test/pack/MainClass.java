@@ -23,7 +23,7 @@ public class MainClass {
 	JTabbedPane jtab;
 	static MainClass mainclass;
 	
-	JLabel srcLabel = new JLabel("Path to src folder ");
+	JLabel srcLabel = new JLabel("Path to src folder1 ");
 	JTextField srcText = new JTextField(20);
 	JLabel libLabel = new JLabel("Path to Libraries1");
 	JTextField libText = new JTextField(20);
